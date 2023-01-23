@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+## procedure => 
+  > pre dee vi o fo key crea pur un(what, why, how) gic lu sum ap re tion ting => preprogramme => deep breath => visulize => observe => focus => keyboard => creativity => purpose => unpexted => logic => solution => summary => gap inci learn => recognition => rating 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Interview Question > 
+## npm e dri loop single  Node.js  pack hell 
+> 1.  what is Node.js & how works 
+> 2.  features of Node.js ? 
+> 3. npm? npm functionality ? 
+> 4. js node.js diff 
+> 5. event-driven programming in Node.js ? 
+> 6. event loop in Node.js ? 
+> 7. how single threaded handles concurrency when multiple I/0 operations 
+> 8. package.json? 
+> 9. callbacke hell? 
+# inter ques => MongoDB
+# 1. do  cu type ad use fea tion crud ob 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# > 65/2 Node_Mongo_Crud 
+> gap inci learn tion 
+> ## gap:>> remise => response && promise => ser data diff => server and db difference 
 
-### `npm test`
+> ## inci:>> get tem in sol dyuturn => # getsol => console.log() inside app.get()
+>=> ## temsol => console.log() inside template string 
+>  => # inside console.log() => consol log user after setUser() 
+> => > dyuturn  => dynamic route(same static) + return(map,)
+## learn => pt => p => add up d i => add user => updateUser => deleteUser => ui data => 
+>>> # t => csd => client=>server => dataBase => 
+>> ## client(add) =>fe mise2 => fetch =>re op =>  resourse(url string) 
+> ##    option => mhb => method => headers => body => 
+> ## method => gppd => get post put patch delete => patch vs put => put(upsert)
+> ## headers => con app on => 'content-type':'application/json'
+> ## body => fy ser => JSON.stringify(user) => 
+> ## user => multi state => dy ob => dynamic object => bra dot vari tic => bracket notation => dot notation => variable property => static property
+> ## mise2 => .then(para call => para on(json)) .then(para ex(expected result)) => 
+> result => dp lu mong=> delete post value is mongo response => 
+## client (i(render ui)) =>inside home compo =>  fetch(re) => repro state .map=> resolve promise=>  state it=> ui by map() => 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Server =>crud =>pgpd(post get put delete) uc in(c) fi(r) up d mise => 
+## in => uc in ser(user) mise => 
+## find (get all collection)=>uc find({}) mise 
+## findone => uc findOne(filter) => filter => {_id:objectId(id)}
+## upOne => fi up op => filter => id ob id ({_id:objectId(id)}) => up => $set{} => option=> {upsert:true} => update || insert 
 
-### `npm run build`
+# Recognition => 
+> 1. api => express method 
+> 2. node mongoDB crud operation > usageexamples > 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# insole => 
+# getsol => console.log() inside app.get()
+# 3 tier architechture 
+# multi field form state 
+## then await => promise 
+## temsol => console.log() inside template string 
+> > dyuturn  => dynamic route + return(map,)
+## remise => response && promise 
+## route 1 => router file one time execute 
+## consone => 
+## con pom(prompt) lert => confirm alert prompt 
+## dp lu => delete post put (fetch ) value
+## d id => delete id not sent 
+## d load => 
+## dis da get => design data get(data can't access without get api)
+## upsert => update || insert  >> if remain update, not remain add 
+# Recognition => 
+> 1. api => express method 
+> 2. node mongoDB crud operation > usageexamples > 

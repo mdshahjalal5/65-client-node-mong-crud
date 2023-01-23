@@ -20,7 +20,7 @@ const Update = () => {
         .then(data => {
             if (data.modifiedCount > 0){
                 alert('user updated')
-                console.log(data);
+            console.log(data);
             }
             
         })
