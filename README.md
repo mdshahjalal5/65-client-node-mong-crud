@@ -15,7 +15,7 @@
 > 8. package.json? 
 > 9. callbacke hell? 
 # inter ques => MongoDB
-# 1. docu type ad use fea tion crud ob 
+# 1. docu type ad use fea tion crud ob diff
   > 1. what is document in MongoDb?
   > 2. collection mongodb? 
   > 3.  dbms type of mongodb ? 
@@ -24,7 +24,7 @@
   > 6. feature of mongoDB ? 
   > 7. crud operation ? 
   > 8. structure of ObjectId in mongoDB? 
-
+  > 9. mongoDB & mysql diff 
 
 # > 65/2 Node_Mongo_Crud 
 > gap inci learn tion 
