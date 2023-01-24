@@ -15,7 +15,7 @@
 > 8. package.json? 
 > 9. callbacke hell? 
 # inter ques => MongoDB
-# 1. docu type ad use fea tion crud ob diff
+# 1. docu type ad use fea tion crud  diff ob
   > 1. what is document in MongoDb?
   > 2. collection mongodb? 
   > 3.  dbms type of mongodb ? 
@@ -28,7 +28,7 @@
 
 # > 65/2 Node_Mongo_Crud 
 > gap inci learn tion 
-> ## gap:>> remise => response && promise => ser data diff => server and db difference 
+> ## gap:>> remise i=> response && promise && api  => ser data diff => server and db difference 
 
 > ## inci:>> get tem in sol dyuturn => # getsol => console.log() inside app.get()
 >=> ## temsol => console.log() inside template string 
