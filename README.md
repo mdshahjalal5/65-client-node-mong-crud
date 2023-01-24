@@ -15,8 +15,15 @@
 > 8. package.json? 
 > 9. callbacke hell? 
 # inter ques => MongoDB
-# 1. do  cu type ad use fea tion crud ob 
-
+# 1. docu type ad use fea tion crud ob 
+  > 1. what is document in MongoDb?
+  > 2. collection mongodb? 
+  > 3.  dbms type of mongodb ? 
+  > 4. advantages of mongodb ? 
+  > 5. when to use  mongoDB ? 
+  > 6. feature of mongoDB ? 
+  > 7. crud operation ? 
+  > 8. structure of ObjectId in mongoDB? 
 
 
 # > 65/2 Node_Mongo_Crud 
