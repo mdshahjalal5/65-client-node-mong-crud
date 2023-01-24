@@ -75,3 +75,5 @@
 # Recognition => 
 > 1. api => express method 
 > 2. node mongoDB crud operation > usageexamples > 
+
+## quiz => ref ri docu => useRef i value (inpout value) => ri(horizontally scallalbe) => document, obj type(perhaps) => schemas flexible 
